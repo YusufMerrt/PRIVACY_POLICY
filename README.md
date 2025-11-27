@@ -1,10 +1,4 @@
-# Privacy Policy Template
 
-## Gizlilik Politikası Şablonu
-
-**ÖNEMLİ:** Bu şablonu kendi bilgilerinizle doldurun ve bir web sayfasına yükleyin.
-
----
 
 # Privacy Policy / Gizlilik Politikası
 
@@ -171,28 +165,7 @@ If you have questions about this Privacy Policy, please contact us at:
 
 Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
 
-[E-POSTA ADRESİNİZ]
+info@neowise.com.tr
 [WEB SİTESİ ADRESİNİZ]
-
----
-
-## App Store Privacy Requirements Checklist / App Store Gizlilik Gereksinimleri Kontrol Listesi
-
-✅ Privacy Policy URL provided
-✅ Data collection types disclosed
-✅ Third-party data sharing disclosed
-✅ Children's privacy addressed
-✅ Data retention policy stated
-✅ User rights explained
-✅ Contact information provided
-
-✅ Gizlilik Politikası URL'i sağlandı
-✅ Veri toplama türleri açıklandı
-✅ Üçüncü taraf veri paylaşımı açıklandı
-✅ Çocuk gizliliği ele alındı
-✅ Veri saklama politikası belirtildi
-✅ Kullanıcı hakları açıklandı
-✅ İletişim bilgileri sağlandı
-
 
 
