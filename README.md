@@ -2,15 +2,13 @@
 
 # Privacy Policy / Gizlilik Politikası
 
-**Last Updated:** [TARİH]
 
-**Effective Date:** [TARİH]
 
 ## 1. Introduction / Giriş
 
-[UYGULAMA ADI] ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
-[UYGULAMA ADI] ("biz", "bizim" veya "bizim") gizliliğinizi korumaya kararlıyız. Bu Gizlilik Politikası, mobil uygulamamızı kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı, açıkladığımızı ve koruduğumuzu açıklar.
+("biz", "bizim" veya "bizim") gizliliğinizi korumaya kararlıyız. Bu Gizlilik Politikası, mobil uygulamamızı kullandığınızda bilgilerinizi nasıl topladığımızı, kullandığımızı, açıkladığımızı ve koruduğumuzu açıklar.
 
 ## 2. Information We Collect / Topladığımız Bilgiler
 
@@ -160,12 +158,10 @@ Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikleri bu s
 
 If you have questions about this Privacy Policy, please contact us at:
 
-[E-POSTA ADRESİNİZ]
-[WEB SİTESİ ADRESİNİZ]
 
 Bu Gizlilik Politikası hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
 
 info@neowise.com.tr
-[WEB SİTESİ ADRESİNİZ]
+
 
 
